@@ -1,0 +1,11 @@
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\bin\Debug\GameUI.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\obj\Debug\GameUI.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\bin\Debug\Program1.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\bin\Debug\GameUI.dll.config
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\bin\Debug\GameUI.dll
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\bin\Debug\Program1.dll
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\bin\Debug\Program1.dll.config
+C:\Users\britt\source\repos\ConsoleAppGame\GameUI\obj\Debug\GameUI.dll

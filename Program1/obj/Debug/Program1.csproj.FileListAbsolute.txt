@@ -1,0 +1,7 @@
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\bin\Debug\Program1.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\obj\Debug\Program1.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\bin\Debug\Program1.dll.config
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\bin\Debug\Program1.dll
+C:\Users\britt\source\repos\ConsoleAppGame\Program1\obj\Debug\Program1.dll

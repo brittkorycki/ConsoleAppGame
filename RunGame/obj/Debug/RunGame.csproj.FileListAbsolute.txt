@@ -1,0 +1,14 @@
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\obj\Debug\RunGame.csprojAssemblyReference.cache
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\obj\Debug\RunGame.csproj.CoreCompileInputs.cache
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\RunGame.exe.config
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\RunGame.exe
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\RunGame.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\GameUI.dll
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\Program1.dll
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\GameUI.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\GameUI.dll.config
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\Program1.pdb
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\bin\Debug\Program1.dll.config
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\obj\Debug\RunGame.csproj.CopyComplete
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\obj\Debug\RunGame.exe
+C:\Users\britt\source\repos\ConsoleAppGame\RunGame\obj\Debug\RunGame.pdb

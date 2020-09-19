@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUI", "GameUI\GameUI.csproj", "{8B9D7410-BA6C-4D9F-90AB-074964C44D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1", "Program1\Program1.csproj", "{947D47F6-D7E4-49BB-B914-5E604FBA230B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGame", "RunGame\RunGame.csproj", "{758880BF-CD59-4E5F-A269-C24D98AA9049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B9D7410-BA6C-4D9F-90AB-074964C44D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9D7410-BA6C-4D9F-90AB-074964C44D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9D7410-BA6C-4D9F-90AB-074964C44D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9D7410-BA6C-4D9F-90AB-074964C44D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947D47F6-D7E4-49BB-B914-5E604FBA230B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947D47F6-D7E4-49BB-B914-5E604FBA230B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947D47F6-D7E4-49BB-B914-5E604FBA230B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947D47F6-D7E4-49BB-B914-5E604FBA230B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758880BF-CD59-4E5F-A269-C24D98AA9049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758880BF-CD59-4E5F-A269-C24D98AA9049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758880BF-CD59-4E5F-A269-C24D98AA9049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758880BF-CD59-4E5F-A269-C24D98AA9049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1FABC7-72F2-4EF4-8A26-FAED31197070}
+	EndGlobalSection
+EndGlobal
