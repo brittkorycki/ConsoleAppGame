@@ -22,7 +22,7 @@ namespace ConsoleGame
             bool keepRunning = true;
             while (keepRunning)
             {
-                Console.WriteLine("Welcome to Casino Royale.\n+" +
+                Console.WriteLine("Welcome to Casino Royale.\n" +
                     "Would you like to play BlackJack?");
                 string input = Console.ReadLine();
 
